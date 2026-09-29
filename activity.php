@@ -388,7 +388,7 @@ if (isset($_POST["show"])) {
 
         }
 
-
+echo "<br>";
         echo "</table>";
 
     }
